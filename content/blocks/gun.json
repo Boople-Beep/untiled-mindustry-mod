@@ -18,8 +18,8 @@ shootEffect: {
   interp: pow5Out
   sizeFrom: 1
   sizeTo: 3
-  colorFrom: Pal.bulletYellow
-  colorTo: Pal.bulletYellowBack
+  colorFrom: "b5a163"
+  colorTo: "c5b173"
 }
 ammoTypes: {
   copper: {

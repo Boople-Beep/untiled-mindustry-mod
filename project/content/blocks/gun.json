@@ -30,3 +30,9 @@ ammoTypes: {
     width: 0.05
   }
 }
+category: turret
+requirements: [
+  titanium/30
+  copper/120
+  plastanium/5
+]

@@ -32,6 +32,7 @@ ammoTypes: {
     colorFrom: "b5a163"
     colorTo: "c5b173"
     drawSize: 1
+    bulletSprite: "bullet.png"
   }
 }
 category: turret

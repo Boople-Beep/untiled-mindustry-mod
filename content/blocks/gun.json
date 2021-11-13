@@ -29,6 +29,8 @@ ammoTypes: {
     height: 0.15
     width: 0.05
     speed: 6
+    colorFrom: "b5a163"
+    colorTo: "c5b173"
   }
 }
 category: turret

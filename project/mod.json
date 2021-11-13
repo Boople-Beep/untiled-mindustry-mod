@@ -5,4 +5,4 @@ description: "IGNORE IF SEEN- i'm learning to mod"
 version: "1.0"
 minGameVersion: "134"
 dependencies: [ ]
-hidden: true
+hidden: false

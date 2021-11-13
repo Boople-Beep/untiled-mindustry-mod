@@ -1,2 +1,2 @@
-# untiled-mindustry-mod
+# untitled-mindustry-mod
 Just me trying my hand at Mindustry modding

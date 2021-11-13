@@ -26,13 +26,13 @@ ammoTypes: {
     type: BasicBulletType
     damage: 60
     lifetime: 45
-    height: 0.15
-    width: 0.05
+    height: 1.25
+    width: 0.75
     speed: 6
     colorFrom: "b5a163"
     colorTo: "c5b173"
     drawSize: 1
-    bulletSprite: "bullet.png"
+    bulletSprite: "bullet"
   }
 }
 category: turret

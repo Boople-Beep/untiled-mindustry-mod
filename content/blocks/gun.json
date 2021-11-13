@@ -1,4 +1,4 @@
-type: ReloadTurret
+type: ItemTurret
 name: gun
 description: gun
 size: 2

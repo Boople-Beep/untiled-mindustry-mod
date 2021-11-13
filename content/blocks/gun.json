@@ -1,4 +1,4 @@
-type: ItemTurret
+type: ArtilleryTurret
 name: gun
 description: gun
 size: 2
@@ -7,7 +7,7 @@ squareSprite: false
 health: 780
 reloadTime: 15
 shots: 6
-innacuracy:0
+inaccuracy: 15
 velocityInaccuracy: 0.4
 shootEffect: {
   type: ParticleEffect
@@ -26,8 +26,8 @@ ammoTypes: {
     type: BasicBulletType
     damage: 60
     lifetime: 45
-    height: 1.25
-    width: 0.75
+    height: 3.25
+    width: 1.5
     speed: 6
     colorFrom: "b5a163"
     colorTo: "c5b173"

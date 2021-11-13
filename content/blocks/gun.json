@@ -8,7 +8,7 @@ health: 780
 reloadTime: 15
 shots: 6
 innacuracy:0
-velocityInaccuracy: 4
+velocityInaccuracy: 0.4
 shootEffect: {
   type: ParticleEffect
   cone: 15
@@ -28,6 +28,7 @@ ammoTypes: {
     lifetime: 45
     height: 0.15
     width: 0.05
+    speed: 6
   }
 }
 category: turret
